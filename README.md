@@ -7,4 +7,9 @@ Key Learning Points:
 - Backend database handling with Flask-SQLAlchemy
 - Web development and design patterns
 
+## How to Use
+To run the app.
+```bash
+python3 main.py
+
 Many credits to: https://www.youtube.com/watch?v=dam0GPOAvVI 
