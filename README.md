@@ -8,7 +8,7 @@ Key Learning Points:
 - Web development and design patterns
 
 ## How to Use
-To run the app.
+You need to have flask installed to run the app.
 ```bash
 python3 main.py
 ```
