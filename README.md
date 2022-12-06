@@ -11,6 +11,7 @@ Key Learning Points:
 To run the app.
 ```bash
 python3 main.py
+```
 
 ## Credits
 Many credits to: https://www.youtube.com/watch?v=dam0GPOAvVI 
