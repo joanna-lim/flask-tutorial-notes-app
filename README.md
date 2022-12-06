@@ -1,6 +1,6 @@
 # Notes Website with Flask
 
-A work in progress, this is a Python Website using Flask, made following a YouTube video.
+This is a Python Website using Flask, made following a YouTube video.
 
 Key Learning Points:
 - User session management with Flask-Login
